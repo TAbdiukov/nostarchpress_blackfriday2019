@@ -3,6 +3,10 @@
 
 * All prices in the US dollars
 
+## Status
+
+Infornation here is no longer too relevant (aside from understanding the shipping cost), as their special has ended. Check out their recent deals though 😊
+
 ## Books
 
 **Name** | Shortened | Price USD | Delivery alone | Year |  pp
